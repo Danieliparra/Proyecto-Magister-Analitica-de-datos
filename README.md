@@ -28,10 +28,13 @@ Este proyecto se llevó a cabo como parte de la evaluación final de la asignatu
 
 ------------
 
+
 ###Implementación
 Todo el código utilizado para generar los resultados y las figuras en el artículo se encuentra en el archivo "Diabetes hospital.ipynb". Los cálculos y la generación de las figuras se ejecutan dentro del cuaderno Jupyter. Los datos utilizados en este estudio se proporcionan en la carpeta "dataset_diabetes". Además, en la carpeta "Documentación" se encuentra información complementacia al problema.
 
 ------------
+
+
 ###Dependencias
 Necesitarás un entorno de Python funcional para ejecutar el código. La forma recomendada de configurar tu entorno es a través de la distribución de Python Anaconda, que proporciona el gestor de paquetes conda. Anaconda se puede instalar en tu directorio de usuario y no interfiere con la instalación de Python del sistema
 
@@ -43,6 +46,7 @@ Las librerias utilizadas son:
 - scikit-learn
 
 -----------
+
 
 ###Licencias
 Puedes utilizar y modificar libremente el código, siempre y cuando proporciones atribución a los autores
