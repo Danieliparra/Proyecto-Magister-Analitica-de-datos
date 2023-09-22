@@ -1,4 +1,5 @@
-# Proyecto de Maestría: Análisis de Datos para la Predicción de Readmisión Hospitalaria
+# Proyecto Magister: Analítica de datos
+by Daniel Parra, Mario Montorfano y Ronald Verdugo
 
 ## Objetivo
 El objetivo principal de este proyecto es llevar a cabo un análisis exploratorio de datos y desarrollar un modelo de aprendizaje automático para predecir la readmisión hospitalaria.
